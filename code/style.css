@@ -104,12 +104,13 @@ border-bottom: 3px solid #fff;
     .box{
        width: 95% !important;
     padding: 10px;
-    }
+height:auto:
+    } 
     .input-box{
         padding: 10px;
     }
     .output{
-        height:180px;
+        height:200px;
         
     }
 }
