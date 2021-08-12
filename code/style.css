@@ -10,7 +10,7 @@ body{
 h1{
     text-align: center;
     margin: 20px auto;
-    color: #fff;
+    color: coral;
 }
 .box{
     width: 45%;
@@ -94,6 +94,7 @@ border-bottom: 3px solid #fff;
 
     }
     .box-2{
+
         width: 100%;
     }
     .output{
@@ -113,5 +114,9 @@ Height:auto;
     .output{
         height:200px;
         
+    }
+.box-2{
+Height:auto;
+        width: 100%;
     }
 }
