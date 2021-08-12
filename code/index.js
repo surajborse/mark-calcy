@@ -27,7 +27,7 @@ const calcy = () => {
         }
                if(perc >=  35 ){
 swal("Congratulation!", "You Are Pass!", "success");
-                document.getElementById('showdata').innerHTML = `Out Of 500 Your Total Mark is ${total} And Persentage  ${perc}%. <br>  Your Gread is  ${grades}.Yor Are Pass.. `
+                document.getElementById('showdata').innerHTML = `Out Of 500 Your Total Mark is ${total} And Persentage  ${perc}%. <br>  Your Gread is  ${grades}.You Are Pass.. `
                 document.getElementById('thank').innerHTML =`Thank You..`
                 
                } 
